@@ -6,9 +6,8 @@ do
 {
     
     Console.WriteLine(i);
-    //teste
-    Console.WriteLine(i);
-} while(i<=10);
+     
+    } while(i<=10);
 
 
 
